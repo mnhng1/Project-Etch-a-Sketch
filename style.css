@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    border-color: black;
+    background-color:rgb(129, 127, 127);
+    height: 600px;
+    width: 600px;
+    flex-wrap: wrap;
+}
+
